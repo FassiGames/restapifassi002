@@ -1,0 +1,47 @@
+{
+  "Usuarios":[
+    {
+      "IdUsuario": 1,
+      "Nome": "Fulano de Tal",
+      "Email": "fulanodetal@email.com",
+      "xp": 0,
+      "highscore": 0,
+      "Ativa": 0
+    }
+  ],
+  "Eventos": [
+    {
+      "IdEvento": 1,
+      "Nome": "Aprenda a monetizar seus jogos - 001",
+      "Descricao": "Descrição da Premiação...",
+      "Foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Link": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Ativa": 0
+    },
+    {
+      "IdEvento": 2,
+      "Nome": "Aprenda a monetizar seus jogos  - 002",
+      "Descricao": "Descrição da Premiação...",
+      "Foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Link": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Ativa": 0
+    },
+    {
+      "IdEvento": 3,
+      "Nome": "Aprenda a monetizar seus jogos - 003",
+      "Descricao": "Descrição da Premiação...",
+      "Foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Link": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Ativa": 1
+    },
+    {
+      "IdEvento": 2,
+      "Nome": "Aprenda a monetizar seus jogos  - 002",
+      "Descricao": "Descrição da Premiação...",
+      "Foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Link": "///https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Ativa": 0,
+      "id": "c1cc"
+    }
+  ]
+}

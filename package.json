@@ -2,14 +2,12 @@
   "name": "restapifassi002",
   "version": "1.0.0",
   "description": "rest api fassi002 Games 2",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node ./server.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  },  
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^1.0.0-beta.2"
-  }
+  "author": "FassiGames",
+  "license": "ISC"
 }
