@@ -1,14 +1,4 @@
-{
-  "Usuarios":[
-    {
-      "IdUsuario": 1,
-      "Nome": "Fulano de Tal",
-      "Email": "fulanodetal@email.com",
-      "xp": 0,
-      "highscore": 0,
-      "Ativa": 0
-    }
-  ],
+{  
   "Eventos": [
     {
       "IdEvento": 1,
