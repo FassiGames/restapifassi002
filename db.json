@@ -1,11 +1,15 @@
 {  
-  "Users":
-  [
+  "Users":  [
     {
       "IdUser": 1,
       "Nome": "Aprenda a monetizar seus jogos - 001",
-      "Email": "Descrição da Premiação...",
-    }      
+      "Email": "Descrição da Premiação..."
+    },
+    {
+      "IdUser": 1,
+      "Nome": "Aprenda a monetizar seus jogos - 001",
+      "Email": "Descrição da Premiação..."
+    }       
   ],
   "Eventos": [
     {
@@ -16,6 +20,15 @@
       "Link": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
       "Ativa": 1,
       "Id": 0
+    },
+    {
+      "IdEvento": 1,
+      "Nome": "Aprenda a monetizar seus jogos - 001",
+      "Descricao": "Descrição da Premiação...",
+      "Foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Link": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+      "Ativa": 1,
+      "Id": 1
     }
   ]
 }
