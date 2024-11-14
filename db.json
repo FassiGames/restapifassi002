@@ -1,15 +1,12 @@
 {  
   "Missoes":  [
     {
-      "IdUser": 1,
-      "Nome": "Aprenda a monetizar seus jogos - 001",
-      "Email": "Descrição da Premiação..."
-    },
-    {
-      "IdUser": 1,
-      "Nome": "Aprenda a monetizar seus jogos - 001",
-      "Email": "Descrição da Premiação..."
-    }       
+      "IdMissao": 1,
+      "MissaoAtiva": 0,
+      "ImagemMissao": "",
+      "ImagemPremio": "",
+      "Premio": 0
+    }     
   ],
   "Eventos": [
     {
